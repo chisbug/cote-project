@@ -1,0 +1,22 @@
+{
+  "name": "cote-project",
+  "version": "0.0.1",
+  "description": "A React project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chisbug/cote-project.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Ch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chisbug/cote-project/issues"
+  },
+  "homepage": "https://github.com/chisbug/cote-project#readme"
+}
